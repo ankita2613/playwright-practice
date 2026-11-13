@@ -23,8 +23,8 @@ Java 25, Playwright for Java, TestNG, Maven, Page Object Model
 ## Selenium vs Playwright: what I measured
 | Measure | Selenium | Playwright |
 |---|---|---|
-| Time, full run | ? s | 27.2 s (10 tests) |
-| Time, smoke run | ? s | 19.7 s (2 tests) |
+| Time, full run | 39.57 s | 27.2 s (10 tests) |
+| Time, smoke run | 29.63 s | 19.7 s (2 tests) |
 | Wait code in page classes | Explicit waits needed | None |
 | Failure evidence | Screenshot | Trace with steps, screenshots, network |
 
