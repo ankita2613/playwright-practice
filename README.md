@@ -1,5 +1,7 @@
 # Playwright Practice: Sauce Demo Test Automation
 
+![Playwright tests](https://github.com/ankita2613/playwright-practice/actions/workflows/tests.yml/badge.svg)
+
 UI tests for https://www.saucedemo.com written with Playwright for Java.
 A matching Selenium version is in my `selenium-practice` repository, so the two tools can be compared.
 
